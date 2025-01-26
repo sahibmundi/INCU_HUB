@@ -26,14 +26,14 @@ Preferences preferences;
 #define TEMP_TARGET 37.7
 #define TEMP_HYSTERESIS 0.2
 
-const char* ssid = "Galaxy A10514F";
-const char* password = "Ekam@123";
+const char* ssid = "USER_ID";
+const char* password = "PASSWORD";
 const char* mqttServer = "mqtt3.thingspeak.com";
 const int mqttPort = 1883;
-const char* mqttUser = "EAEuKDEGMjMPMQU5BzkLAy8";
-const char* mqttPassword = "5r840t4TUhUGXduLEw80Fx38";
-const char* mqttClientID = "EAEuKDEGMjMPMQU5BzkLAy8";
-const char* mqttTopic = "channels/2793525/publish";
+const char* mqttUser = "MQTT_USER";
+const char* mqttPassword = "MQTT_PASSWORD";
+const char* mqttClientID = "MQTT_CLIENT_ID";
+const char* mqttTopic = "channels/CHANNEL-ID/publish";
 
 WiFiClient wifiClient;
 PubSubClient mqttClient(wifiClient);
