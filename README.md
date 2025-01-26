@@ -8,8 +8,8 @@
 IncuHub is an innovative IoT-based egg-hatching machine designed to create ideal conditions for egg incubation. It features temperature and humidity control using the BMP280 sensor, automated egg tray rotation with a motor, and consistent air circulation via a fan. The system also integrates water level monitoring using an ultrasonic sensor.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/22458371-73cf-4777-95dc-a3f0ca7cde2c"
-alt="image" width="500" >
+<img src="https://github.com/user-attachments/assets/bb949627-99f6-4291-b8d2-d3c52efc8c36"
+alt="image" width="400" >
 </p>
 
 --------------------------------------------
